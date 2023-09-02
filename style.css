@@ -37,8 +37,7 @@ ul.list-1 li a:hover {color:#44a7bb}
 .img-indent-2 {float:left; margin:4px 26px 0 0}	
 .last {margin-right:0 !important}
 .img-radius {border-radius:4px}
-.p2 b{ color:#fff;}
-.box-shadow {box-shadow:0 1px 1px #fff}
+.box-shadow {box-shadow:0 1px 1px #fff;}
 .top-1 {margin-top:12px}
 .top-2 {margin-top:43px}
 .top-3 {margin-top:33px}
@@ -52,7 +51,6 @@ ul.list-1 li a:hover {color:#44a7bb}
 .pad-1 {padding:30px 26px 40px 26px}
 .pad-2 {padding:0 26px}
 .pad-3 {padding:37px 26px 40px 26px}
-
 .p0 {padding-bottom:8px}
 .p1 {padding-bottom:25px}
 .p2 {padding-bottom:12px; font-size:16px; color:#fff!important;}
