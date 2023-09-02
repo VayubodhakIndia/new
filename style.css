@@ -2,7 +2,7 @@
 html, body {width:100%; padding:0; margin:0}
 body {font:14px/25px Arial, Helvetica, sans-serif;color:#000000;min-width:960px;background:#000000}
 .ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
-.main {width:100%; background:url(../images/bg7.jpg) no-repeat center center fixed;
+.main {width:100%; background:url(bg7.jpg) no-repeat center center fixed;
 -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
