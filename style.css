@@ -108,7 +108,7 @@ ul.menu li.home-page span {background:url(../images/home-page-img.png) 0 0 no-re
 .line-1 {background:url(../images/line.png) 0 bottom repeat-x; padding-bottom:29px; margin-bottom:24px}
 .img-border {border:#ebebec 4px solid; border-radius:12px}
 .block-1>div {color:#fff; float:left; width:278px; margin-right:27px}
-.block-1>div h3 {margin-bottom:16px; color:#fff;}
+.block-1>div h3 {margin-bottom:16px; color:#fff!important;}
 .block-1>div img {margin-bottom:12px}
 .block-1>div a.button {margin:18px 0 0 0}
 
